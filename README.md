@@ -56,11 +56,31 @@ Disertakan melalui CDN di dalam file `index.html`:
 | Gambar | `CharaSpriteAnim.png` | ![CharaSpriteAnim](https://github.com/user-attachments/assets/c1c045cb-2e5e-40bc-8755-7d3f8d57dcca)
 )
 ) |
-| Gambar | `ButtonPlay.png` | ![![CharaSpriteAnim](https://github.com/user-attachments/assets/4137d0b2-702c-4509-be87-1bed5c5a16ac)
+| Gambar | `ButtonPlay.png` | ![![ButtonPlay](https://github.com/user-attachments/assets/c8016a08-a65b-4fe7-a851-4ad27fc88706)
+)
 )
 ) |
-| Gambar | `GameOver.png` | !9a44c07-ada2-4e43-a872-167d5e1048a8)
+| Gambar | `GameOver.png` | ![GameOver](https://github.com/user-attachments/assets/26228b04-a7f6-4dff-bdc8-cfad46a8448b)
+)
 ) |
+| Gambar | `Koin.png` | ![Koin](https://github.com/user-attachments/assets/bb1dfe9c-3615-429e-b79c-f2238496ee08)
+) |
+| Gambar | `Musuh01.png` | ![Musuh01](https://github.com/user-attachments/assets/0c575cca-398c-4bb2-b98f-f46e20eb2073)
+) |
+| Gambar | `Musuh02.png` |![Musuh02](https://github.com/user-attachments/assets/211f6b1b-0050-492b-9715-785978e2050f)
+) |
+| Gambar | `Musuh03.png` |![Musuh03](https://github.com/user-attachments/assets/441346ec-bfc4-4502-83bf-84bd1237a711)
+) |
+| Gambar | `PanelCoin.png` | ![PanelCoin](https://github.com/user-attachments/assets/025be76e-d516-443c-82fd-01ae419efb33)
+) |
+| Gambar | `Tile50.png` | ![Tile50](https://github.com/user-attachments/assets/45b0132b-9f1b-4bbc-a774-41b9b7ffc431)
+
+
+
+
+
+
+
 
 ## Lisensi
 
@@ -68,4 +88,4 @@ Proyek ini dibuat untuk tujuan pembelajaran dan pengembangan pribadi.
 
 ---
 
-Dibuat oleh **Bayu**
+Dibuat oleh **Febrian Bayu**
