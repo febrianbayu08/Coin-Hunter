@@ -1,5 +1,8 @@
 # Coin Hunter - Bayu
 
+![image](https://github.com/user-attachments/assets/b05b2b71-46a7-42df-9942-fc4c05441fe8)
+
+
 Coin Hunter adalah game platformer 2D sederhana yang dibuat menggunakan **Phaser 3**, di mana pemain harus mengumpulkan koin dan menghindari musuh untuk melanjutkan ke level berikutnya.
 
 ## Fitur Game
